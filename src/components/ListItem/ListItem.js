@@ -4,7 +4,7 @@ import { Image,View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 const listItem = (props) => (
     <TouchableOpacity onPress={props.onItemPressed}>
         <View style={styles.listItem}>
-            <Image resizeMode="contain" source={props.placeImage} style={styles.placeImage}/>
+            <Image source={props.placeImage} style={styles.placeImage}/>
             <Text>{props.placeName}</Text>
         </View>
     </TouchableOpacity>
@@ -23,7 +23,8 @@ const styles = StyleSheet.create({
     placeImage:{
         width:30,
         height:30,
-        marginRight:8
+        marginRight:8,
+        //resizeMode: Image.resizeMode.contain,
     }
 });
 

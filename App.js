@@ -16,7 +16,9 @@ export default class App extends Component {
         places: prevState.places.concat({
             key: Math.random(),
             name:placeName,
-            placeImage: placeImage
+            placeImage: {
+                uri: "https://www.wallpapersforiphone6plus.com/wp-content/uploads/2018/01/Beach-Wallpaper-Desktop-Free-75-with-Beach-Wallpaper-Desktop-Free.jpg"
+            }
         })
       };
     });
