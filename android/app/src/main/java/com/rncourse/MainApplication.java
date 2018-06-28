@@ -1,6 +1,7 @@
 package com.rncourse;
 
 import com.reactnativenavigation.NavigationApplication;
+import com.oblador.vectoricons.VectorIconsPackage;
 
 import android.app.Application;
 
@@ -59,6 +60,7 @@ public class MainApplication extends NavigationApplication  {
     // No need to add RnnPackage and MainReactPackage
     return Arrays.<ReactPackage>asList(
             // eg. new VectorIconsPackage()
+            new VectorIconsPackage()
     );
   }
 

@@ -210,6 +210,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/diallo110339/Documents/OGC/tools/ReactNative/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/diallo110339/Documents/OGC/tools/ReactNative/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-vector-icons-unspecified_9c085906c4905210bef012358d6c66ca8b08c7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/diallo110339/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
