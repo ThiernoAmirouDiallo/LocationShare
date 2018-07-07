@@ -3,7 +3,7 @@ import {View, Text, Button} from 'react-native';
 
 import Icon from 'react-native-vector-icons/Ionicons'
 
-import startMainTabs from '../MainTabs/startMainTabs';
+import startMainTabs from '../MainTabs/StartMainTabs';
 
 class AuthScreen extends Component{
     loginHandler =()=>{
