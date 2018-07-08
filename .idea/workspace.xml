@@ -2,41 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85ee8dda-7dc3-4184-b52d-2a2964909512" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/PickImage/PickImage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PickLocation/PickLocation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTBlob.build/Debug-iphonesimulator/RCTBlob.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTBlob.build/Debug-iphonesimulator/RCTBlob.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/fishhook.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/fishhook.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jschelpers.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jschelpers.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jsinspector.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jsinspector.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/privatedata.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/privatedata.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/ReactNativeNavigation.build/Debug-iphonesimulator/ReactNativeNavigation.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/ReactNativeNavigation.build/Debug-iphonesimulator/ReactNativeNavigation.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/rncourse.build/Debug-iphonesimulator/rncourse.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/rncourse.build/Debug-iphonesimulator/rncourse.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/rncourse.build/Debug-iphonesimulator/rncourseTests.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/rncourse.build/Debug-iphonesimulator/rncourseTests.build/dgph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Logs/Build/7FC1ADE4-6379-4094-825E-8BF34E30281C.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Logs/Build/B3226A41-ADC6-40D8-8D42-5324123CF5F8.xcactivitylog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/Logs/Build/Cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Logs/Build/Cache.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/build/info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js" afterDir="false" />
     </list>
@@ -124,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SharePlace.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SharePlace.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+            <state relative-caret-position="183">
+              <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -148,7 +113,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PickLocation.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PickLocation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/PickLocation/PickLocation.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -163,8 +128,8 @@
       <file leaf-file-name="PlaceInput.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="165">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -221,12 +186,12 @@
         <option value="$PROJECT_DIR$/src/components/UI/ButtonWithBackground/ButtonWithBackground.js" />
         <option value="$PROJECT_DIR$/src/screens/Auth/Auth.js" />
         <option value="$PROJECT_DIR$/src/components/UI/MainText/MainText.js" />
-        <option value="$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js" />
         <option value="$PROJECT_DIR$/src/components/UI/ImagePreviewAndPicker/ImagePreviewAndPicker.js" />
         <option value="$PROJECT_DIR$/src/components/UI/PickImage/PickImage.js" />
         <option value="$PROJECT_DIR$/src/components/PickImage/PickImage.js" />
-        <option value="$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js" />
         <option value="$PROJECT_DIR$/src/components/PickLocation/PickLocation.js" />
+        <option value="$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js" />
+        <option value="$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js" />
       </list>
     </option>
   </component>
@@ -511,12 +476,12 @@
       <workItem from="1530130063508" duration="2402000" />
       <workItem from="1530141651031" duration="8500000" />
       <workItem from="1530152226721" duration="32000" />
-      <workItem from="1530524268203" duration="31781000" />
+      <workItem from="1530524268203" duration="32895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78103000" />
+    <option name="totallyTimeSpent" value="79217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="837" extended-state="6" />
@@ -917,26 +882,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PickImage/PickImage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -953,6 +898,26 @@
           <caret line="6" column="100" selection-start-line="6" selection-start-column="100" selection-end-line="6" selection-end-column="100" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>

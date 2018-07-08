@@ -13,6 +13,17 @@ import PickImage from '../../components/PickImage/PickImage';
 import {addPlace} from '../../store/actions/index';
 
 class SharePlaceScreen extends Component{
+
+    state = {
+        placeName: ""
+    };
+
+    placeNameChangedHandler = val => {
+        this.setState({
+            placeName: val
+        });
+    };
+
     constructor(props){
         super(props);
 
@@ -31,8 +42,10 @@ class SharePlaceScreen extends Component{
         }
 
     }
-    placeAddedHandler = placeName =>{
-        this.props.onAddPlace(placeName);
+    placeAddedHandler = () =>{
+        if(this.state.placeName.trim() !== ""){
+            this.props.onAddPlace(this.state.placeName.trim());
+        }
     }
     render(){
         return (
@@ -46,9 +59,14 @@ class SharePlaceScreen extends Component{
 
                     <PickLocation />
 
-                    <PlaceInput />
+                    <PlaceInput
+                        placeName={this.state.placeName}
+                        onChangeText={this.placeNameChangedHandler}
+                    />
 
-                    <View style={styles.button}><Button title={"Share the Place!"} /></View>
+                    <View style={styles.button}>
+                        <Button title={"Share the Place!"} onPress={this.placeAddedHandler} />
+                    </View>
                 </View>
             </ScrollView>
         );
