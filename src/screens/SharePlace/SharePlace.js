@@ -1,13 +1,14 @@
 import React , {Component} from 'react';
 
-import {View, Text,Button, TextInput,StyleSheet,ScrollView,Image} from 'react-native';
+import {View, Text,Button, StyleSheet,ScrollView} from 'react-native';
 import { connect } from 'react-redux';
 
-import DefaultInput from '../../components/UI/DefaultInput/DefaultInput';
 import HeadingText from '../../components/UI/HeadingText/HeadingText';
 import MainText from '../../components/UI/MainText/MainText';
+import PlaceInput from '../../components/PlaceInput/PlaceInput';
+import PickLocation from '../../components/PickLocation/PickLocation'
 
-import imagePlaceHolder from '../../assets/beautiful-place.jpg'
+import PickImage from '../../components/PickImage/PickImage';
 
 import {addPlace} from '../../store/actions/index';
 
@@ -40,13 +41,13 @@ class SharePlaceScreen extends Component{
                     <MainText>
                         <HeadingText>Share a Place with us</HeadingText>
                     </MainText>
-                    <View style={styles.placeHolder}>
-                        <Image source={imagePlaceHolder} style={styles.previewImage}/>
-                    </View>
-                    <View style={styles.button}><Button title={"Pick Image"} /></View>
-                    <View style={styles.placeHolder}><Text>Map</Text></View>
-                    <View style={styles.button}><Button title={"Locate Me"} /></View>
-                    <DefaultInput placeholder="Place Name" />
+
+                    <PickImage />
+
+                    <PickLocation />
+
+                    <PlaceInput />
+
                     <View style={styles.button}><Button title={"Share the Place!"} /></View>
                 </View>
             </ScrollView>
@@ -62,17 +63,13 @@ const styles = StyleSheet.create({
     button:{
         margin:8
     },
-   placeHolder: {
-       borderWidth:1,
-       borderColor:"black",
-       backgroundColor:"#eee",
-       width: "80%",
-       height: 150
-   },
-    previewImage:{
-        width:"100%",
-        height:"100%"
-    }
+    placeHolder: {
+        borderWidth:1,
+        borderColor:"black",
+        backgroundColor:"#eee",
+        width: "80%",
+        height: 150
+    },
 });
 
 const mapDispatchToProps = dispatch=> {
