@@ -2,7 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85ee8dda-7dc3-4184-b52d-2a2964909512" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/screens/SideDrawer/SideDrawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SideDrawer/SideDrawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTBlob.build/Debug-iphonesimulator/RCTBlob.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTBlob.build/Debug-iphonesimulator/RCTBlob.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/fishhook.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/fishhook.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jschelpers.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jschelpers.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jsinspector.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jsinspector.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/privatedata.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/privatedata.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/ReactNativeNavigation.build/Debug-iphonesimulator/ReactNativeNavigation.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/ReactNativeNavigation.build/Debug-iphonesimulator/ReactNativeNavigation.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/rncourse.build/Debug-iphonesimulator/rncourse.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/rncourse.build/Debug-iphonesimulator/rncourse.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/rncourse.build/Debug-iphonesimulator/rncourseTests.build/dgph" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/rncourse.build/Debug-iphonesimulator/rncourseTests.build/dgph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Logs/Build/98D5E060-4FC4-4EA7-8512-858D1FDC624E.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/Logs/Build/Cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/Logs/Build/Cache.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/build/info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/build/info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/ButtonWithBackground/ButtonWithBackground.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/ButtonWithBackground/ButtonWithBackground.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +52,7 @@
       <file leaf-file-name="Auth.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/screens/Auth/Auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="165">
               <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="24" selection-end-column="31" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
@@ -31,7 +64,7 @@
       <file leaf-file-name="MainText.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/UI/MainText/MainText.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="195">
               <caret line="14" column="6" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -40,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ButtonWithBackground.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ButtonWithBackground.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/UI/ButtonWithBackground/ButtonWithBackground.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="244">
+              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -55,7 +88,7 @@
       <file leaf-file-name="HeadingText.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/UI/HeadingText/HeadingText.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="120">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -64,10 +97,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SideDrawer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SideDrawer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/screens/SideDrawer/SideDrawer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="285">
               <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -79,7 +112,7 @@
       <file leaf-file-name="PlaceDetail.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="240">
               <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="25" selection-end-column="36" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -91,7 +124,7 @@
       <file leaf-file-name="SharePlace.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="510">
               <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
@@ -103,7 +136,7 @@
       <file leaf-file-name="PickImage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/PickImage/PickImage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="135">
               <caret line="12" column="76" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="76" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -115,7 +148,7 @@
       <file leaf-file-name="PickLocation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/PickLocation/PickLocation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="75">
               <caret line="6" column="100" selection-start-line="6" selection-start-column="100" selection-end-line="6" selection-end-column="100" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -127,8 +160,8 @@
       <file leaf-file-name="PlaceInput.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="90">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -181,16 +214,16 @@
         <option value="$PROJECT_DIR$/src/screens/FindPlace/FindPlace.js" />
         <option value="$PROJECT_DIR$/src/components/UI/DefaultInput/DefaultInput.js" />
         <option value="$PROJECT_DIR$/src/components/UI/HeadingText/HeadingText.js" />
-        <option value="$PROJECT_DIR$/src/components/UI/ButtonWithBackground/ButtonWithBackground.js" />
         <option value="$PROJECT_DIR$/src/screens/Auth/Auth.js" />
         <option value="$PROJECT_DIR$/src/components/UI/MainText/MainText.js" />
         <option value="$PROJECT_DIR$/src/components/UI/ImagePreviewAndPicker/ImagePreviewAndPicker.js" />
         <option value="$PROJECT_DIR$/src/components/UI/PickImage/PickImage.js" />
         <option value="$PROJECT_DIR$/src/components/PickImage/PickImage.js" />
         <option value="$PROJECT_DIR$/src/components/PickLocation/PickLocation.js" />
-        <option value="$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js" />
         <option value="$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js" />
         <option value="$PROJECT_DIR$/src/screens/SideDrawer/SideDrawer.js" />
+        <option value="$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/ButtonWithBackground/ButtonWithBackground.js" />
       </list>
     </option>
   </component>
@@ -211,10 +244,10 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="835" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -224,7 +257,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -375,6 +407,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,15 +508,16 @@
       <workItem from="1530130063508" duration="2402000" />
       <workItem from="1530141651031" duration="8500000" />
       <workItem from="1530152226721" duration="32000" />
-      <workItem from="1530524268203" duration="33983000" />
+      <workItem from="1530524268203" duration="34615000" />
+      <workItem from="1531161362496" duration="718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80305000" />
+    <option name="totallyTimeSpent" value="81655000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="837" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -497,10 +531,10 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28833553" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.47313237" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2361111" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2361111" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -528,11 +562,9 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/screens/Auth/Auth.js</url>
-          <properties lambdaOrdinal="-1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -540,6 +572,56 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PickImage/PickImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="76" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PickLocation/PickLocation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="100" selection-start-line="6" selection-start-column="100" selection-end-line="6" selection-end-column="100" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -665,9 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -678,28 +757,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.android.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -735,9 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,9 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#103#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,9 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="61" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -779,9 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,25 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/background.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/beautiful-place.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/beautiful-place.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/UI/ButtonWithBackground/ButtonWithBackground.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/react-native/react-native-implementation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -833,7 +866,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/UI/HeadingText/HeadingText.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="120">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -843,7 +876,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/screens/Auth/Auth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="165">
           <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="24" selection-end-column="31" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
@@ -853,7 +886,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/UI/MainText/MainText.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="195">
           <caret line="14" column="6" selection-end-line="14" selection-end-column="24" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -863,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PickImage/PickImage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="135">
           <caret line="12" column="76" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="76" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -873,7 +906,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PickLocation/PickLocation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="75">
           <caret line="6" column="100" selection-start-line="6" selection-start-column="100" selection-end-line="6" selection-end-column="100" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -881,19 +914,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="510">
           <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
@@ -903,7 +926,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="240">
           <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="25" selection-end-column="36" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -913,10 +936,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/screens/SideDrawer/SideDrawer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="285">
           <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PlaceInput/PlaceInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UI/ButtonWithBackground/ButtonWithBackground.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
