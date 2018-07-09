@@ -1,6 +1,6 @@
 import React , {Component} from 'react';
 
-import {View, Text,Button, StyleSheet,ScrollView} from 'react-native';
+import {View,Button, StyleSheet,ScrollView} from 'react-native';
 import { connect } from 'react-redux';
 
 import HeadingText from '../../components/UI/HeadingText/HeadingText';
