@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85ee8dda-7dc3-4184-b52d-2a2964909512" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/screens/Auth/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Auth/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/DefaultInput/DefaultInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/DefaultInput/DefaultInput.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,18 +24,6 @@
               <caret line="92" column="18" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainText.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/UI/MainText/MainText.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="14" column="6" selection-end-line="14" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,11 +77,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SharePlace.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SharePlace.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            <state relative-caret-position="-1162">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultInput.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/UI/DefaultInput/DefaultInput.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,7 +175,6 @@
         <option value="$PROJECT_DIR$/src/store/reducers/places.js" />
         <option value="$PROJECT_DIR$/App.js" />
         <option value="$PROJECT_DIR$/src/screens/FindPlace/FindPlace.js" />
-        <option value="$PROJECT_DIR$/src/components/UI/DefaultInput/DefaultInput.js" />
         <option value="$PROJECT_DIR$/src/components/UI/HeadingText/HeadingText.js" />
         <option value="$PROJECT_DIR$/src/components/UI/MainText/MainText.js" />
         <option value="$PROJECT_DIR$/src/components/UI/ImagePreviewAndPicker/ImagePreviewAndPicker.js" />
@@ -188,6 +188,7 @@
         <option value="$PROJECT_DIR$/src/screens/SideDrawer/SideDrawer.js" />
         <option value="$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js" />
         <option value="$PROJECT_DIR$/src/screens/Auth/Auth.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/DefaultInput/DefaultInput.js" />
       </list>
     </option>
   </component>
@@ -289,14 +290,6 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="UI" type="462c0819:PsiDirectoryNode" />
               <item name="DefaultInput" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rn-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rn-course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="UI" type="462c0819:PsiDirectoryNode" />
-              <item name="HeadingText" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rn-course" type="b2602c69:ProjectViewProjectNode" />
@@ -473,12 +466,12 @@
       <workItem from="1530141651031" duration="8500000" />
       <workItem from="1530152226721" duration="32000" />
       <workItem from="1530524268203" duration="34615000" />
-      <workItem from="1531161362496" duration="9064000" />
+      <workItem from="1531161362496" duration="9442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90001000" />
+    <option name="totallyTimeSpent" value="90379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="837" extended-state="0" />
@@ -495,10 +488,10 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.47313237" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.47313237" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2361111" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2361111" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -794,16 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/UI/DefaultInput/DefaultInput.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/react-native/react-native-implementation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -920,8 +903,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        <state relative-caret-position="-1162">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UI/DefaultInput/DefaultInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
