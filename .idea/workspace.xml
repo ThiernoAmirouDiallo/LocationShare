@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85ee8dda-7dc3-4184-b52d-2a2964909512" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/screens/Auth/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Auth/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Auth.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Auth.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/screens/Auth/Auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="-940">
+              <caret line="15" selection-start-line="15" selection-end-line="16" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -64,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlaceDetail.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PlaceDetail.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="5">
+              <caret line="34" column="130" selection-start-line="34" selection-start-column="130" selection-end-line="34" selection-end-column="130" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -79,7 +79,7 @@
       <file leaf-file-name="SharePlace.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1162">
+            <state relative-caret-position="-942">
               <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
             </state>
           </provider>
@@ -185,9 +185,9 @@
         <option value="$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js" />
         <option value="$PROJECT_DIR$/src/screens/MainTabs/StartMainTabs.js" />
         <option value="$PROJECT_DIR$/src/screens/SideDrawer/SideDrawer.js" />
-        <option value="$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js" />
         <option value="$PROJECT_DIR$/src/components/UI/DefaultInput/DefaultInput.js" />
         <option value="$PROJECT_DIR$/src/screens/Auth/Auth.js" />
+        <option value="$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js" />
       </list>
     </option>
   </component>
@@ -465,12 +465,12 @@
       <workItem from="1530141651031" duration="8500000" />
       <workItem from="1530152226721" duration="32000" />
       <workItem from="1530524268203" duration="34615000" />
-      <workItem from="1531161362496" duration="10029000" />
+      <workItem from="1531161362496" duration="11949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90966000" />
+    <option name="totallyTimeSpent" value="92886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="837" extended-state="0" />
@@ -873,27 +873,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Image/ImageResizeMode.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1162">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -907,12 +890,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/SharePlace/SharePlace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-942">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/screens/Auth/Auth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="-940">
+          <caret line="15" selection-start-line="15" selection-end-line="16" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/PlaceDetail/PlaceDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="34" column="130" selection-start-line="34" selection-start-column="130" selection-end-line="34" selection-end-column="130" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
