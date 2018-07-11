@@ -7,6 +7,8 @@ import HeadingText from '../../components/UI/HeadingText/HeadingText';
 import MainText from '../../components/UI/MainText/MainText';
 import ButtonWithBackground from '../../components/UI/ButtonWithBackground/ButtonWithBackground';
 
+import validate from '../../Utility/validation'
+
 import backgroundImage from '../../assets/background.jpg'
 
 import startMainTabs from '../MainTabs/StartMainTabs';
@@ -59,13 +61,42 @@ class AuthScreen extends Component{
     }
 
     updateInputState = (key,value) =>{
+        let connectedValue = {};
+        if(this.state.controls[key].validationRules.equalsTo)
+        {
+            const equalsControl=this.state.controls[key].validationRules.equalsTo;
+            const equalsValue=this.state.controls[equalsControl].value;
+            connectedValue={
+                ...connectedValue,
+                equalsTo:equalsValue
+            }
+        }
+
+        if(key === "password")
+        {
+            connectedValue={
+                ...connectedValue,
+                equalsTo:value
+            }
+        }
         this.setState(prevState => {
             return {
                 controls:{
                     ...prevState.controls,
+                    confirmPassword:{
+                        ...prevState.controls.confirmPassword,
+                        valid:
+                            key ==="password" ? validate(
+                                prevState.controls.confirmPassword.value,
+                                prevState.controls.confirmPassword.validationRules,
+                                connectedValue
+                                )
+                                :prevState.controls.confirmPassword.valid
+                    },
                     [key] : {
                         ...prevState.controls[key],
-                        value: value
+                        value:value,
+                        valid: validate(value,prevState.controls[key].validationRules,connectedValue)
                     }
                 }
             };
