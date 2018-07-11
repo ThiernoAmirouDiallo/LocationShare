@@ -1,5 +1,5 @@
 import React , {Component} from 'react';
-import {View, TouchableOpacity,Text, StyleSheet} from 'react-native';
+import {View, TouchableOpacity,Text, StyleSheet, Animated} from 'react-native';
 
 import { connect } from 'react-redux';
 import PlaceList from '../../components/PlaceList/PlaceList';
@@ -7,7 +7,10 @@ import PlaceList from '../../components/PlaceList/PlaceList';
 
 class FindPlaceScreen extends Component{
     state = {
-        placesLoaded: false
+        placesLoaded: false,
+        removeAnim : new Animated.Value(1),
+        fadeAnim : new Animated.Value(0)
+
     }
     static navigatorStyle = {
         navBarButtonColor : "orange"
@@ -31,10 +34,24 @@ class FindPlaceScreen extends Component{
         }
 
     }
+    placesLoadedHandler = () =>{
+        Animated.timing(this.state.fadeAnim, {
+            toValue:1,
+            duration: 500,
+            useNativeDriver:true
+        }).start();
+    }
 
     placesSearchHandler = () => {
-        this.setState({
-            placesLoaded: true
+        Animated.timing(this.state.removeAnim, {
+            toValue:0,
+            duration: 500,
+            useNativeDriver:true
+        }).start(() => {
+            this.setState({
+                placesLoaded: true
+            });
+            this.placesLoadedHandler();
         });
     }
     
@@ -53,18 +70,34 @@ class FindPlaceScreen extends Component{
     }
     render(){
         let content = (
-            <TouchableOpacity onPress={this.placesSearchHandler}>
-                <View style={styles.searchButton}>
-                    <Text style={styles.searchButtonText}>
-                        Find Places
-                    </Text>
-                </View>
-            </TouchableOpacity>
+            <Animated.View style={{
+                opacity: this.state.removeAnim,
+                transform : [
+                    {
+                        scale : this.state.removeAnim.interpolate({
+                            inputRange:[0,1],
+                            outputRange:[12,1]
+                        })
+                    }
+                ]
+            }}>
+                <TouchableOpacity onPress={this.placesSearchHandler}>
+                    <View style={styles.searchButton}>
+                        <Text style={styles.searchButtonText}>
+                            Find Places
+                        </Text>
+                    </View>
+                </TouchableOpacity>
+            </Animated.View>
         );
 
         if (this.state.placesLoaded){
             content = (
-                <PlaceList places={this.props.places} onItemSelected={this.onItemSelectedHandler}/>
+                <Animated.View style={{
+                    opacity: this.state.fadeAnim,
+                }}>
+                    <PlaceList places={this.props.places} onItemSelected={this.onItemSelectedHandler}/>
+                </Animated.View>
             );
         }
 
